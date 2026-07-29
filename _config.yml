@@ -21,7 +21,7 @@ title                    : "Suman Aich"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Suman Aich, Ph.D."
-description              : "An amazing website."
+# description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,9 +114,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Suman Aich"
+  name             : "Suman Aich, Ph.D."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "IU QSEC Postdoctoral Fellow, Condensed Matter and AMO physics"
+  bio              : "IU QSEC Postdoctoral Fellow, Condensed matter and AMO physics"
   location         : "Bloomington, IN, USA"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -135,28 +135,28 @@ author:
       url: "https://github.com/SumanAich"
 
 # Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-square-x-twitter"
+#       # url:
+#       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-square-facebook"
+#       # url:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       # url:
+#     - label: "GitLab"
+#       icon: "fab fa-fw fa-gitlab"
+#       # url:
+#     - label: "Bitbucket"
+#       icon: "fab fa-fw fa-bitbucket"
+#       # url:
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
       # url:
-      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+  # since: "2013"
 
 
 # Reading Files
