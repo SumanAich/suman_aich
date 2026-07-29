@@ -4,9 +4,9 @@ main:
     url: https://sumanaich.github.io/suman_aich/about-me/
   - title: "Research"
     url: https://sumanaich.github.io/suman_aich/research/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Publications"
+    url: /publications/
+  - title: "Outside physics"
+    url: /outside-physics/
   # - title: "Sitemap"
   #   url: /sitemap/
