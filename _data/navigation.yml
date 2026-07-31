@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About me"
-    url: https://sumanaich.github.io/suman_aich/about-me/
+    url: /
   - title: "Research"
-    url: https://sumanaich.github.io/suman_aich/research/
+    url: /research/
   - title: "Publications"
     url: /publications/
   - title: "Outside physics"
